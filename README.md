@@ -1,5 +1,4 @@
 # Product Sales Analytics
-# 📊 Product Sales Analysis (Excel,SQL Server & Power BI)
 
 ##  Project Overview
 
@@ -83,15 +82,6 @@ The dataset contains product sales information such as:
 ## 📸 Dashboard Preview
 
 ![image]()
-
----
-
-## 🚀 How to Use
-
-1. Import the dataset into SQL Server
-2. Run the SQL queries provided
-3. Connect Power BI to SQL Server
-4. Load the data and explore the dashboard
 
 ---
 
