@@ -42,7 +42,8 @@ Built an interactive dashboard featuring:
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshot__26_.png)
+<img width="757" height="458" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/6e1bbd60-1b0f-40ed-acc1-aea9919a2027" />
+
 
 # SQL Queries:
 
